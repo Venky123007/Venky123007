@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Netflix-Clone**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 💬 Ask me about **Java**
 
